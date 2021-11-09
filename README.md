@@ -13,7 +13,7 @@ Overview on how to use the Hamilton
 
 # Before Running the Hamilton
 Every day run the Hamilton Maintenance program and go through this checklist
-- [x] Check to see if daily or weekly maintenance must be done
+- [ ] Check to see if daily or weekly maintenance must be done
 - [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
 
 
