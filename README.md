@@ -11,9 +11,21 @@ Overview on how to use the Hamilton
 
 <p>&nbsp;</p>
 
-### Running a Method on the Hamilton
+# Before Running the Hamilton
+Every day run the Hamilton Maintenance program and go through this checklist
+- [ ] Check to see if daily or weekly maintenance must be done
+- [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
 
-- Access teh Hamilton Method Manager 
+
+
+
+
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+
+# Running a Method on the Hamilton
+
+- Access the Hamilton Method Manager 
 - Select method from 'Hamilton Standard Method' list
 - Click on a method
 - Select **Run Method**
