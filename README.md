@@ -1,3 +1,5 @@
+![alt text] ‪(Smithers_Logo.png "Logo")
+
 
 # Hamilton-Documentation
 
