@@ -1,26 +1,27 @@
-![alt text](Smithers_Logo.png)
+![](Smithers_Logo.png)
 
 # Hamilton-Documentation
 
-Overview on how to use the Hamilton
+**Overview on how to use the Hamilton**
 
-### Setting up the Hamilton Access
+## Setting up the Hamilton Access
 
-- Have a bridge account with access to the Hamilton Method Manager,Hamilton Method Editor, and Hamilton Daily/Weekly Maintenance
+- Have a bridge account with access to the Hamilton Method Manager, Hamilton Method Editor, and Hamilton Daily/Weekly Maintenance
 
 - Have physical connection with the Hamilton machine
 
 <p>&nbsp;</p>
 
-# Before Running the Hamilton
+## Before Running the Hamilton
 Every day run the Hamilton Maintenance program and go through this checklist
+- [ ] Make sure the mach-ine is turned on
 - [ ] Check to see if daily or weekly maintenance must be done
-- [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
+- [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software5*-5582287=/28/
 
 
 <p>&nbsp;</p>
 
-# Running a Method on the Hamilton
+## Running a Method on the Hamilton
 
 - Access the Hamilton Method Manager 
 - Select method from 'Hamilton Standard Method' list
