@@ -1,3 +1,4 @@
+![alt text](Smithers_Logo.png)
 
 # Hamilton-Documentation
 
