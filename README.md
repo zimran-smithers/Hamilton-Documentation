@@ -17,10 +17,6 @@ Every day run the Hamilton Maintenance program and go through this checklist
 - [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
 
 
-
-
-
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # Running a Method on the Hamilton
@@ -30,7 +26,6 @@ Every day run the Hamilton Maintenance program and go through this checklist
 - Click on a method
 - Select **Run Method**
 
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 # Components of a Hamilton Method
