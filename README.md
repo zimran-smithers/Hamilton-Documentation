@@ -1,10 +1,16 @@
 ![](Smithers_Logo.png)
 
-# Hamilton-Documentation
+# 1. Hamilton-Documentation
 
-**Overview on how to use the Hamilton**
+## Table of Contents
+- [1. Hamilton-Documentation](#1-hamilton-documentation)
+  - [Table of Contents](#table-of-contents)
+  - [1.1. Setting up the Hamilton Access](#11-setting-up-the-hamilton-access)
+  - [1.2. Before Running the Hamilton](#12-before-running-the-hamilton)
+  - [1.3. Running a Method on the Hamilton](#13-running-a-method-on-the-hamilton)
+- [2. Components of a Hamilton Method](#2-components-of-a-hamilton-method)
 
-## Setting up the Hamilton Access
+## 1.1. Setting up the Hamilton Access
 
 - Have a bridge account with access to the Hamilton Method Manager, Hamilton Method Editor, and Hamilton Daily/Weekly Maintenance
 
@@ -12,16 +18,16 @@
 
 <p>&nbsp;</p>
 
-## Before Running the Hamilton
+## 1.2. Before Running the Hamilton
 Every day run the Hamilton Maintenance program and go through this checklist
-- [ ] Make sure the machine is turned on
-- [ ] Check to see if daily or weekly maintenance must be done
-- [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
+* - [ ] Make sure the machine is turned on
+* - [ ] Check to see if daily or weekly maintenance must be done
+* - [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
 
 
 <p>&nbsp;</p>
 
-## Running a Method on the Hamilton
+## 1.3. Running a Method on the Hamilton
 
 - Access the Hamilton Method Manager 
 - Select method from 'Hamilton Standard Method' list
@@ -30,7 +36,7 @@ Every day run the Hamilton Maintenance program and go through this checklist
 
 <p>&nbsp;</p>
 
-# Components of a Hamilton Method
+# 2. Components of a Hamilton Method
 
 Every Hamilton method has several files that *must be* linked together
 
