@@ -42,7 +42,7 @@ Every Hamilton method has several files that *must be* linked together
 
 These files are the following
 
-| File Name             | Fi1/5-046=02176-le Description                      | File Type |
+| File Name             | File Description                      | File Type |
 |:----------------------|:-------------------------------------:|----------:|
 | Hamilton HSL Method   | Included libraries used in a method   | .hsl      |
 | Hamilton System Deck  | Deck layout for the method            | .lay      |
