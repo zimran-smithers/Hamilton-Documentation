@@ -10,7 +10,7 @@
     - Simulation Mode = Yellow Light
     <p>&nbsp;</p>
 
-    ![](HamiltonImages\Run_Control.png "Run Control Live Mode")
+    ![Run Control](HamiltonImages/Run_Control.png "Run Control Live Mode")
     <p>&nbsp;</p>
 
 
@@ -21,7 +21,7 @@
     - If any errors occurs, please follow the instructions as stated in SOP-EQ-78
     <p>&nbsp;</p>
 
-    ![](HamiltonImages\Hamilton_Maintenance_Application.JPG "Maintenance Application Screen")
+    ![Maintenance](HamiltonImages/Hamilton_Maintenance_Application.JPG "Maintenance Application Screen")
     
     <p>&nbsp;</p>
 
@@ -30,9 +30,6 @@
   2) Use the <u>Hamilton Method Manager</u> application to select your method and hit run
   3) Upon a *successful* simulation run, go back to the <u>Hamilton Run Control</u> application and disable **Simulation Mode**
   4) Use the <u>Hamilton Method Manager</u> application to run your method again in live mode
-  ![](HamiltonImages\Hamilton_MethodManagerIcon.JPG "Method Manager Shortcut Icon")
+  ![Method Manager Icon](HamiltonImages/Hamilton_MethodManagerIcon.JPG "Method Manager Shortcut Icon")
   5) A menu should pop up as seen below
-  ![](HamiltonImages\Hamilton_MethodManagerMenu.JPG "Hamilton Method Manager Starting Menu")
-  6) Clicking the "Starlet Methods" icon will bring up the full list of possible methods.
-  ![](HamiltonImages\Hamilton_MethodManager_MethodMenu.JPG "Hamilton Method Manager Method List")
-  7) Hit the **Run** button to launch a method.
+  ![Method Manager Method List](HamiltonImages/Hamilton_MethodManagerMenu.JPG "Hamilton Method Manager Starting Menu")
