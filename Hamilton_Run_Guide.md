@@ -35,9 +35,8 @@
 
   5) A menu should pop up as seen below
   ![Method Manager Method List](HamiltonImages/Hamilton_MethodManagerMenu.JPG "Hamilton Method Manager Starting Menu")
-  <p>&nbsp;</p>
 
-  6) The STARlet Methods icon will bring up a menu listing all available methods. Hit **Run** to launch the a method.
+  1) The STARlet Methods icon will bring up a menu listing all available methods. Hit **Run** to launch the a method.
   ![Hamilton Method List](HamiltonImages/Hamilton_MethodManager_MethodMenu.JPG)
-  <p>&nbsp;</p>
+
 
