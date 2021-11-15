@@ -10,7 +10,7 @@
     - Simulation Mode = Yellow Light
     <p>&nbsp;</p>
 
-    ![Run Control](HamiltonImages\Run_Control.png "Run Control Live Mode")
+    ![Run Control](HamiltonImages/Run_Control.png "Run Control Live Mode")
     <p>&nbsp;</p>
 
 
