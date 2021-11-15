@@ -31,7 +31,13 @@
   3) Upon a *successful* simulation run, go back to the <u>Hamilton Run Control</u> application and disable **Simulation Mode**
   4) Use the <u>Hamilton Method Manager</u> application to run your method again in live mode
   ![Method Manager Icon](HamiltonImages/Hamilton_MethodManagerIcon.JPG "Method Manager Shortcut Icon")
+  <p>&nbsp;</p>
+
   5) A menu should pop up as seen below
   ![Method Manager Method List](HamiltonImages/Hamilton_MethodManagerMenu.JPG "Hamilton Method Manager Starting Menu")
+  <p>&nbsp;</p>
+
   6) The STARlet Methods icon will bring up a menu listing all available methods. Hit **Run** to launch the a method.
   ![Hamilton Method List](HamiltonImages/Hamilton_MethodManager_MethodMenu.JPG)
+  <p>&nbsp;</p>
+
