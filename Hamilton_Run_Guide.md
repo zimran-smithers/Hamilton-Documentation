@@ -30,3 +30,6 @@
   2) Use the <u>Hamilton Method Manager</u> application to select your method and hit run
   3) Upon a *successful* simulation run, go back to the <u>Hamilton Run Control</u> application and disable **Simulation Mode**
   4) Use the <u>Hamilton Method Manager</u> application to run your method again in live mode
+  ![](HamiltonImages\Hamilton_MethodManagerIcon.JPG "Method Manager Shortcut Icon")
+  5) A menu should pop up as seen below
+  ![](HamiltonImages\Hamilton_MethodManagerMenu.JPG "Hamilton Method Manager Starting Menu")
