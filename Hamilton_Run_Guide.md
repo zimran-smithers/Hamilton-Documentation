@@ -21,7 +21,7 @@
     - If any errors occurs, please follow the instructions as stated in SOP-EQ-78
     <p>&nbsp;</p>
 
-    ![Maintenance](HamiltonImages/Hamilton_Maintenance_Application.JPG "Maintenance Application Screen")
+    ![Maintenance](HamiltonImages/Hamilton_Daily_Maintenance_Required.JPG "Maintenance Application Screen")
     
     <p>&nbsp;</p>
 
