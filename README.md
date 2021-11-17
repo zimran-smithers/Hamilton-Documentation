@@ -44,7 +44,7 @@ These files are the following
 
 | File Name             | File Description                      | File Type |
 |:----------------------|:-------------------------------------:|----------:|
-| Hamilton HSL Method   | Included libraries used in a method   | .hsl      |
+| Hamilton Header File  | Compiled code generated to run machine| .hsl      |
 | Hamilton System Deck  | Deck layout for the method            | .lay      |
 | Hamilton Method       | Contains GUI-based Hamilton Method    | .med      |
 | Hamilton RES File     | Helper file for the Hamilton Method   | .res      |
@@ -55,6 +55,6 @@ The most important methods are the System Deck, HSL Method, and Method files.
 <p>
 System Deck:    Contains layout of deck objects used for the respective Hamilton Method file and is linked with Hamilton Method file
 
-Hamilton HSL Method:    Contains all the necessary auxilliary libraries needed to run the Hamilton method.
+Hamilton HSL Method:    Stands for 'Hamilton Standard Language' and is the underlying programming language for the machine. Contains all the necessary auxilliary libraries needed to run the Hamilton method and is also used to *generate* libraries. 
 
 Hamilton Method:    Contains the actual **code** that the Hamilton processes to run the method.
