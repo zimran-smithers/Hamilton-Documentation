@@ -20,7 +20,7 @@
 
 ## 1.2. Before Running the Hamilton
 Every day run the Hamilton Maintenance program and go through this checklist
-* - [ ] Make sure the machine is turned on
+* - [ ] Make sure the machine is turned on. Blue light indicates machine is on and motors are engaged. Do **not** attempt to move the pipetting channels when the machine is on. If channels need to be moved, turn the machine off.
 * - [ ] Check to see if daily or weekly maintenance must be done
 * - [ ] Run the respective maintenance programs if needed. This is shown in bold red **REQUIRED** in the software
 
