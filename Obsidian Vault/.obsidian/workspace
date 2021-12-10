@@ -1,0 +1,141 @@
+{
+  "main": {
+    "id": "7e2261c7aaef3d89",
+    "type": "split",
+    "children": [
+      {
+        "id": "9f72b4b1b05a9a33",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hamilton/Hamilton Run Guide.md",
+            "mode": "source"
+          }
+        },
+        "group": "6afddf5e5a0fd692"
+      },
+      {
+        "id": "010d968e5b4843b1",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Hamilton/Hamilton Run Guide.md",
+            "mode": "preview"
+          }
+        },
+        "group": "6afddf5e5a0fd692"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4478c5386c505a68",
+    "type": "split",
+    "children": [
+      {
+        "id": "e77f398bd5a54b43",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dd526ada3b11a4f1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b1010d794acf2b09",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#Hamilton-Documentation",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 207
+  },
+  "right": {
+    "id": "ee41a6cf915d239a",
+    "type": "split",
+    "children": [
+      {
+        "id": "8405146e402bd271",
+        "type": "tabs",
+        "dimension": 72.00392927308448,
+        "children": [
+          {
+            "id": "f6f03d722b58a9cf",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "de25b6ad14e32a5a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d750c2166078a821",
+        "type": "tabs",
+        "dimension": 27.996070726915523,
+        "children": [
+          {
+            "id": "f57c4be223006c11",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hamilton/Hamilton Run Guide.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 508
+  },
+  "active": "9f72b4b1b05a9a33",
+  "lastOpenFiles": [
+    "Hamilton/Hamilton Run Guide.md",
+    "Hamilton/Hamilton Spiking Protocol.md",
+    "Launching Method 206.md",
+    "HamiltonImages/Hamilton_Daily_Maintenance_Required.JPG.md",
+    "HamiltonImages/Hamilton_MethodManagerMenu.JPG.md",
+    "Hamilton/Introduction to Using the Machine.md",
+    "Hamilton-Documentation.md",
+    "HamiltonImages/Hamilton_MethodManager_MethodMenu.jpg",
+    "HamiltonImages/Run_Control.png.md",
+    "HamiltonImages/Hamilton_MethodManager_MethodMenu.JPG.md"
+  ]
+}
